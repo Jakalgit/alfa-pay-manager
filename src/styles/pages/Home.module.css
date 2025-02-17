@@ -1,0 +1,12 @@
+
+.horizontalScrollBlock {
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.scrollRibbon {
+    display: flex;
+    gap: 15px;
+}
